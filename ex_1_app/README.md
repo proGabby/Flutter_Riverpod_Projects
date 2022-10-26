@@ -1,1 +1,1 @@
-Using a state Notifier provider
+simple weather fetching functionality Using a futureprovider
